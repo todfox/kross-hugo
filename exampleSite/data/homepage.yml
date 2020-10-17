@@ -29,10 +29,10 @@ experience:
   enable: true
   title: Partners
   item:
-  - logo: images/experience/icon-1.png
-    title: Junior UX Designer
-    company: WEBEX
-    duration: Jan 2007 - Feb 2009
+  - logo: https://static1.squarespace.com/static/5b613249a9e028b5bd5e48b8/t/5c5279ebb914431fede11aef/1548909040442/Color+Logo.png?format=1000w
+    title: Structural Insulated Panels
+    company: Prairie Panels
+    duration: June 2020
   - logo: images/experience/icon-2.png
     title: UX & UI Designer
     company: AUGMEDIX
