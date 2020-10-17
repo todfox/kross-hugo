@@ -81,7 +81,7 @@ service:
     highlighted: false
 portfolio:
   enable: true
-  title: Portfolio
+  title: Boxes
   item_show: "5"
 testimonial:
   enable: true
