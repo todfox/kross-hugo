@@ -33,10 +33,10 @@ experience:
     title: Structural Insulated Panels
     company: Prairie Panels
     duration: June 2020
-  - logo: images/experience/icon-2.png
-    title: UX & UI Designer
-    company: AUGMEDIX
-    duration: Mar 2009 - Aug 2014
+  - logo: https://www.innotech-windows.com/wp-content/themes/innotech/images/logo.svg
+    title: Windows
+    company: Innotech Windows + Doors
+    duration: August 2020
   - logo: images/experience/icon-1.png
     title: Senior UI Designer
     company: THEMEFISHER
