@@ -65,10 +65,17 @@ service:
     icon: ti-palette
     content: An efficient journey from start to finish.
     highlighted: false
-  - title: UX Design
+  - title: Construction Speed
     icon: ti-vector
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+    content: Building a custom modular home, whether in Toronto or beyond, using pre-engineered  components
+      and our proven construction method simplifies the building process, expedites
+      construction and reduces costs throughout the project. We can recommend a qualified
+      GC or work with a contractor of your choice. The GC is involved from the ground
+      up, being responsible for the building’s foundation; the labour to erect the
+      Mafco framing component; and, assisting in the provision of a network of sub-trades
+      to install electrical, mechanical and plumbing requirements. When it comes time
+      to finish your home inside and out, the GC will provide Mh specified or your
+      choice of finish.
     highlighted: true
   - title: Interaction Design
     icon: ti-panel
