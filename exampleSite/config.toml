@@ -4,21 +4,21 @@ summaryLength = "10"
 theme = "kross-hugo"
 title = "Fox Box"
 [[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 4
-[[menu.main]]
-URL = "portfolio"
-name = "Boxes"
-weight = 2
-[[menu.main]]
-URL = "blog"
-name = "Media"
-weight = 3
-[[menu.main]]
 URL = "about"
 name = "About"
 weight = 1
+[[menu.main]]
+URL = "boxes"
+name = "boxes"
+weight = 3
+[[menu.main]]
+URL = "media"
+name = "Media"
+weight = 2
+[[menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 4
 [params]
 address = "1038 Aird Street, Saskatoon, SK, CANADA"
 author = "Tod Fox"
