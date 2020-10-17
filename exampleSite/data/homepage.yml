@@ -14,7 +14,7 @@ skill:
   title: " Our design principles"
   item:
   - title: Affordability
-    progress: An efficient journey from start to finish.
+    progress: 60%
     color: "#fdb157"
   - title: Construction Speed
     progress: 60%
