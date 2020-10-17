@@ -47,7 +47,7 @@ sections:
 - type: directory
   path: exampleSite/about
   label: Content
-  create: documents
+  create: all
   match: "**/*"
 - type: heading
   label: Configuration
