@@ -138,5 +138,5 @@ clients_logo_slider:
   - logo: images/clients-logo/client-logo-5.png
     URL: "#"
 media:
-  enable: false
+  enable: true
   title: Media
