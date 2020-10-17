@@ -61,7 +61,7 @@ service:
   enable: true
   title: Design Principles
   item:
-  - title: Afordability
+  - title: Environmentally Conscious Affordability
     icon: ti-palette
     content: An efficient journey from start to finish.
     highlighted: false
