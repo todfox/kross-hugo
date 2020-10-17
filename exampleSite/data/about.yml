@@ -24,10 +24,10 @@ team:
     designation: Project Manager
   - title: Doug Kramble
     image: images/team/member-2.png
-    designation: Web Developer
+    designation: Engineering
   - title: Craig Longhurst
     image: images/team/member-3.png
     designation: Designer
 clients_logo_slider:
   enable: true
-  title: My Clients
+  title: Our Clients
