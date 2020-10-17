@@ -8,8 +8,8 @@ URL = "about"
 name = "About"
 weight = 1
 [[menu.main]]
-URL = "blog"
-name = "Blog"
+URL = "media"
+name = "Media"
 weight = 2
 [[menu.main]]
 URL = "portfolio"
