@@ -82,7 +82,7 @@ service:
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut labore et dolore magna aliqua.
     highlighted: false
-portfolio:
+boxes:
   enable: true
   title: Boxes
   item_show: "5"
@@ -137,6 +137,6 @@ clients_logo_slider:
     URL: http://examplesite.com
   - logo: images/clients-logo/client-logo-5.png
     URL: "#"
-blog:
+media:
   enable: false
   title: Media
