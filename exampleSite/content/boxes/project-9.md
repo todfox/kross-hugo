@@ -1,7 +1,7 @@
 ---
 title: Lodge
 date: 2019-05-12T12:14:34.000+06:00
-image: images/portfolio/item-7.png
+image: "/images/westcoastcabin-17.jpg"
 client: Tod Fox
 project_url: ''
 categories:
