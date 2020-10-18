@@ -12,8 +12,8 @@ URL = "boxes"
 name = "boxes"
 weight = 3
 [[menu.main]]
-URL = "media"
-name = "Media"
+URL = "press"
+name = "Press"
 weight = 2
 [[menu.main]]
 URL = "contact"
