@@ -26,7 +26,7 @@ team:
     image: images/team/member-2.png
     designation: Engineering
   - title: Craig Longhurst
-    image: images/team/member-3.png
+    image: "/images/craig_longhurst.jpg"
     designation: Designer
 clients_logo_slider:
   enable: false
