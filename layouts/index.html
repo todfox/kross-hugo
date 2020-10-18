@@ -183,21 +183,21 @@
   {{ end }}
 
 
-  {{ if site.Data.homepage.portfolio.enable }}
-  <!-- portfolio -->
+  {{ if site.Data.homepage.boxes.enable }}
+  <!-- boxes -->
   <section class="section">
     <div class="container">
       <div class="row">
         <div class="col-12 text-center">
-          <h2 class="section-title">{{ site.Data.homepage.portfolio.title | markdownify }}</h2>
+          <h2 class="section-title">{{ site.Data.homepage.boxes.title | markdownify }}</h2>
         </div>
       </div>
       <div class="row shuffle-wrapper">
-        {{ $item:= site.Data.homepage.portfolio.item_show }}
-        {{ range first $item (where .Site.RegularPages "Section" "portfolio") }}
+        {{ $item:= site.Data.homepage.boxes.item_show }}
+        {{ range first $item (where .Site.RegularPages "Section" "boxes") }}
         <div class="col-lg-4 col-6 mb-4 shuffle-item">
           <div class="position-relative rounded hover-wrapper">
-            <img src="{{.Params.image | absURL }}" alt="portfolio-image" class="img-fluid rounded w-100 d-block">
+            <img src="{{.Params.image | absURL }}" alt="boxes-image" class="img-fluid rounded w-100 d-block">
             <div class="hover-overlay">
               <div class="hover-content">
                 <a class="btn btn-light btn-sm" href="{{ .Permalink | safeURL }}">view project</a>
@@ -209,7 +209,7 @@
       </div>
     </div>
   </section>
-  <!-- /portfolio -->
+  <!-- boxes -->
   {{ end }}
 
 
@@ -259,21 +259,21 @@
   <!-- /client logo slider -->
   {{ end }}
 
-  {{ if site.Data.homepage.blog.enable }}
-  <!-- blog -->
+  {{ if site.Data.homepage.press.enable }}
+  <!-- press -->
   <section class="section">
     <div class="container">
       <div class="row">
         <div class="col-12 text-center">
-          <h2 class="section-title">{{site.Data.homepage.blog.title | markdownify }}</h2>
+          <h2 class="section-title">{{site.Data.homepage.press.title | markdownify }}</h2>
         </div>
-        {{ range first 3 (where .Site.RegularPages "Section" "blog")}}
+        {{ range first 3 (where .Site.RegularPages "Section" "press")}}
         {{ .Render "post" }}
         {{ end }}
       </div>
     </div>
   </section>
-  <!-- /blog -->
+  <!-- /press -->
   {{ end }}
 
 
