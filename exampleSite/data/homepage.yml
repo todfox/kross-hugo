@@ -29,18 +29,18 @@ partners:
   enable: true
   title: Partners
   item:
-  - logo: "/images/logo-prairiepanels.png"
-    title: " Prairie Panels"
-    company: Structural Insulated Panels
-    duration: June 2020
+  - logo: "/images/logo_misty_burton.png"
+    title: Concrete & Construction
+    company: ''
+    duration: July 2020
   - logo: https://www.innotech-windows.com/wp-content/themes/innotech/images/logo.svg
     title: Innotech Windows + Doors
     company: Windows
     duration: August 2020
-  - logo: "/images/logo_misty_burton.png"
-    title: 'Misty Burton Concrete '
-    company: Concrete & Construction
-    duration: July 2020
+  - logo: "/images/logo-prairiepanels.png"
+    title: " Prairie Panels"
+    company: Structural Insulated Panels
+    duration: June 2020
 education:
   enable: false
   title: Education
