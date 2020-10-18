@@ -2,10 +2,10 @@
 title: Lodge
 date: 2019-05-12T12:14:34.000+06:00
 image: images/portfolio/item-7.png
-client: John Doe
-project_url: https://themefisher.com/
+client: Tod Fox
+project_url: ''
 categories:
-- branding
+- lodge
 description: This is meta description.
 
 ---
