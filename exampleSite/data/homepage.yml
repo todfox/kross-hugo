@@ -38,8 +38,8 @@ partners:
     company: ''
     duration: August 2020
   - logo: "/images/logo-prairiepanels.png"
-    title: " Prairie Panels"
-    company: Structural Insulated Panels
+    title: Structural Insulated Panels
+    company: ''
     duration: June 2020
 education:
   enable: false
