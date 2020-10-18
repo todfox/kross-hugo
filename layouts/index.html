@@ -257,21 +257,21 @@
   <!-- /client logo slider -->
   {{ end }}
 
-  {{ if site.Data.homepage.media.enable }}
-  <!-- media -->
+  {{ if site.Data.homepage.press.enable }}
+  <!-- press -->
   <section class="section">
     <div class="container">
       <div class="row">
         <div class="col-12 text-center">
-          <h2 class="section-title">{{site.Data.homepage.media.title | markdownify }}</h2>
+          <h2 class="section-title">{{site.Data.homepage.press.title | markdownify }}</h2>
         </div>
-        {{ range first 3 (where .Site.RegularPages "Section" "media")}}
+        {{ range first 3 (where .Site.RegularPages "Section" "press")}}
         {{ .Render "post" }}
         {{ end }}
       </div>
     </div>
   </section>
-  <!-- /media -->
+  <!-- /press-->
   {{ end }}
 
 
