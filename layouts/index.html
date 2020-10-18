@@ -69,6 +69,36 @@
   <!-- /about -->
   {{ end }}
 
+  {{ if site.Data.homepage.boxes.enable }}
+  <!-- boxes -->
+  <section class="section">
+    <div class="container">
+      <div class="row">
+        <div class="col-12 text-center">
+          <h2 class="section-title">{{ site.Data.homepage.boxes.title | markdownify }}</h2>
+        </div>
+      </div>
+      <div class="row shuffle-wrapper">
+        {{ $item:= site.Data.homepage.boxes.item_show }}
+        {{ range first $item (where .Site.RegularPages "Section" "boxes") }}
+        <div class="col-lg-4 col-6 mb-4 shuffle-item">
+          <div class="position-relative rounded hover-wrapper">
+            <img src="{{.Params.image | absURL }}" alt="boxes-image" class="img-fluid rounded w-100 d-block">
+            <div class="hover-overlay">
+              <div class="hover-content">
+                <a class="btn btn-light btn-sm" href="{{ .Permalink | safeURL }}">view project</a>
+              </div>
+            </div>
+          </div>
+        </div>
+        {{ end }}
+      </div>
+    </div>
+  </section>
+  <!-- /boxes -->
+  {{ end }}
+
+
 
   {{ if site.Data.homepage.skill.enable }}
   {{ with site.Data.homepage.skill }}
@@ -183,36 +213,6 @@
   {{ end }}
 
 
-  {{ if site.Data.homepage.boxes.enable }}
-  <!-- boxes -->
-  <section class="section">
-    <div class="container">
-      <div class="row">
-        <div class="col-12 text-center">
-          <h2 class="section-title">{{ site.Data.homepage.boxes.title | markdownify }}</h2>
-        </div>
-      </div>
-      <div class="row shuffle-wrapper">
-        {{ $item:= site.Data.homepage.boxes.item_show }}
-        {{ range first $item (where .Site.RegularPages "Section" "boxes") }}
-        <div class="col-lg-4 col-6 mb-4 shuffle-item">
-          <div class="position-relative rounded hover-wrapper">
-            <img src="{{.Params.image | absURL }}" alt="boxes-image" class="img-fluid rounded w-100 d-block">
-            <div class="hover-overlay">
-              <div class="hover-content">
-                <a class="btn btn-light btn-sm" href="{{ .Permalink | safeURL }}">view project</a>
-              </div>
-            </div>
-          </div>
-        </div>
-        {{ end }}
-      </div>
-    </div>
-  </section>
-  <!-- boxes -->
-  {{ end }}
-
-
   {{ if site.Data.homepage.testimonial.enable }}
   {{ with site.Data.homepage.testimonial }}
   <!-- testimonial -->
@@ -273,7 +273,7 @@
       </div>
     </div>
   </section>
-  <!-- /press -->
+  <!-- /press-->
   {{ end }}
 
 
