@@ -42,7 +42,7 @@ experience:
     company: Concrete & Construction
     duration: July 2020
 education:
-  enable: true
+  enable: false
   title: Education
   item:
   - title: Marters in UX Design
