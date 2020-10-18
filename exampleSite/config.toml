@@ -27,7 +27,7 @@ description = ""
 email = "info@foxbox.life"
 google_analytics_id = ""
 home = "Home"
-logo = "/images/logo_fox_box.png"
+logo = "/images/logo_fox_box_small.png"
 phone = "+1 306 716 6664"
 theme_color = "#000000"
 [params.contact]
