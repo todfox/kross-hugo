@@ -20,7 +20,7 @@ team:
   title: Our Team
   team_member:
   - title: Natasha Fox
-    image: images/team/member-1.png
+    image: "/images/natasha_fox.jpg"
     designation: Project Manager
   - title: Doug Kramble
     image: images/team/member-2.png
