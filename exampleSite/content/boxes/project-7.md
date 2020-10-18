@@ -1,7 +1,7 @@
 ---
 title: Detached Suite
 date: 
-image: images/portfolio/item-1.png
+image: "/images/studio-pedro-black-cabin-in-nys-exterior-at-dusk-41-1024x1011.jpg"
 client: John Doe
 project_url: https://themefisher.com/
 categories:
