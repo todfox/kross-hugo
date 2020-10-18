@@ -25,7 +25,7 @@ skill:
   - title: Web App
     progress: 70%
     color: "#ffbcaa"
-experience:
+partners:
   enable: true
   title: Partners
   item:
