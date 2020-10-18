@@ -2,7 +2,7 @@
 title: About
 description: This is meta description.
 author_image: "/images/s200_tod_fox.jpg"
-author_signature: images/about/signature.png
+author_signature: "/images/signature.png"
 
 ---
 We build modernist buildings that connect with and celebrate their natural environment. 
