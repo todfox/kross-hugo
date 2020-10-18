@@ -84,7 +84,7 @@ service:
     highlighted: false
 boxes:
   enable: true
-  title: Boxes
+  title: Beautiful Boxes
   item_show: "5"
 testimonial:
   enable: false
