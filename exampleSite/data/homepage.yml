@@ -10,7 +10,7 @@ about:
     label: know more
     URL: about
 skill:
-  enable: true
+  enable: false
   title: " Our design principles"
   item:
   - title: Affordability
