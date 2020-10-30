@@ -8,7 +8,7 @@ about:
     Conscientiously built for enjoying life.
   button:
     enable: true
-    label: know more
+    label: Our Team
     URL: about
 skill:
   enable: false
