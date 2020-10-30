@@ -63,7 +63,7 @@ service:
   title: Design Principles
   item:
   - title: A revolution in honest cabin design.
-    icon: ti-palette
+    icon: ti-panel
     content: At Fox Box, we’re mindfully ushering in a design revolution, with an
       approach that’s breaking down barriers and fast-tracking the process to owning
       a sustainable designed building. Because we believe great design shouldn’t be
@@ -77,10 +77,12 @@ service:
       including the highest quality build in only 2-4* weeks with our allied construction
       partner.
     highlighted: true
-  - title: Luxury
-    icon: ti-panel
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+  - title: In concert with nature, in tune with you.
+    icon: ti-palette
+    content: Made for the Canadian climate. Built-in Sustainability.  Every Fox Box
+      design is built to be in perfect harmony with its environment. And every aspect
+      of the interior design can be fine-tuned until it resonates with the people
+      who call it home.
     highlighted: false
 boxes:
   enable: true
