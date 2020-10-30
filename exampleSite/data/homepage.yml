@@ -69,17 +69,13 @@ service:
       a sustainable designed building. Because we believe great design shouldn’t be
       a privilege, but a pleasure for everyone to enjoy.
     highlighted: false
-  - title: Construction Speed
+  - title: Home Design and Building re-imagined.
     icon: ti-vector
-    content: Building a custom modular home, whether in Toronto or beyond, using pre-engineered  components
-      and our proven construction method simplifies the building process, expedites
-      construction and reduces costs throughout the project. We can recommend a qualified
-      GC or work with a contractor of your choice. The GC is involved from the ground
-      up, being responsible for the building’s foundation; the labour to erect the
-      Mafco framing component; and, assisting in the provision of a network of sub-trades
-      to install electrical, mechanical and plumbing requirements. When it comes time
-      to finish your home inside and out, the GC will provide Mh specified or your
-      choice of finish.
+    content: We’ve turned the traditional method of building a cabin on its head.
+      And in the process, we’ve ditched the stress, the delays and the inevitable
+      cost blowouts. This means you can entrust us to achieve your goals with confidence,
+      including the highest quality build in only 2-4* weeks with our allied construction
+      partner.
     highlighted: true
   - title: Luxury
     icon: ti-panel
