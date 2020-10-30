@@ -62,9 +62,12 @@ service:
   enable: true
   title: Design Principles
   item:
-  - title: Environmentally Conscious Affordability
+  - title: A revolution in honest cabin design.
     icon: ti-palette
-    content: An efficient journey from start to finish.
+    content: At Fox Box, we’re mindfully ushering in a design revolution, with an
+      approach that’s breaking down barriers and fast-tracking the process to owning
+      a sustainable designed building. Because we believe great design shouldn’t be
+      a privilege, but a pleasure for everyone to enjoy.
     highlighted: false
   - title: Construction Speed
     icon: ti-vector
