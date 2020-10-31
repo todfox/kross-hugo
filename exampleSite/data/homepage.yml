@@ -20,8 +20,8 @@ skill:
   - title: Piles & Structural Frame
     progress: 50%
     color: "#9473e6"
-  - title: Environment
-    progress: 80%
+  - title: Box Erection
+    progress: 65%
     color: "#bdecf6"
   - title: Web App
     progress: 70%
