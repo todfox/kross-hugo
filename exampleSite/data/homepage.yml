@@ -14,6 +14,9 @@ skill:
   enable: true
   title: Build Schedule
   item:
+  - title: Introduction & Site Visit
+    progress: 10%
+    color: "#cccccc"
   - title: Purchase, Ordering & Transportation
     progress: 25%
     color: "#fdb157"
