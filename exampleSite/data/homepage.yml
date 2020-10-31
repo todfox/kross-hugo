@@ -22,7 +22,7 @@ skill:
     color: "#fdb157"
   - title: Piles & Structural Frame
     progress: 50%
-    color: "#9473e6"
+    color: "#808080"
   - title: Box Erection
     progress: 65%
     color: "#bdecf6"
