@@ -9,7 +9,7 @@
         </div>
       </div>
         <div class="row">
-            <div class="col-lg-4">
+            <div class="col-lg-6">
 
                     <div class="text-light">
 
@@ -39,7 +39,7 @@
                         {{ $Section := .process }}
                         {{ range $Section }}
                         <div class="benefits__materials_item">
-                            <span class="mb-4"> {{ .time }} </span>
+                            <span class="pre-line text-primary"> {{ .time }} </span>
                             {{ .content | markdownify }}
                         </div>
                         {{ end }}
