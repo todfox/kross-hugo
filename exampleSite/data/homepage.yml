@@ -32,6 +32,9 @@ skill:
   - progress: 95%
     color: ''
     title: Electrical & Plumbing
+  - progress: 100%
+    color: ''
+    title: Cleaning & Final Inspection
 partners:
   enable: true
   title: Partners
