@@ -23,8 +23,8 @@ skill:
   - title: Box Erection
     progress: 65%
     color: "#bdecf6"
-  - title: Web App
-    progress: 70%
+  - title: Windows & Doors
+    progress: 75%
     color: "#ffbcaa"
 partners:
   enable: true
