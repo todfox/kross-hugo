@@ -11,7 +11,7 @@ about:
     label: Our Team
     URL: about
 skill:
-  enable: false
+  enable: true
   title: Your Fox Box Build
   item:
   - title: Purchase, Ordering & Transportation
