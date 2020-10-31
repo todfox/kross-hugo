@@ -16,7 +16,7 @@ skill:
   item:
   - title: Introduction & Site Visit
     progress: 10%
-    color: "#cccccc"
+    color: "#e6e6e6"
   - title: Purchase, Ordering & Transportation
     progress: 25%
     color: "#fdb157"
