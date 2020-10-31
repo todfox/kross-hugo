@@ -1,8 +1,7 @@
 ---
 enable: true
 topTitle: Benefits
-title: "##### Considered design. \n##### Conscious architecture. \n##### Impressive
-  time frames."
+title: "Considered design. \nConscious architecture. \nImpressive time frames."
 tab1Name: Materials
 tab2Name: Process
 tab1Target: materials
@@ -16,17 +15,23 @@ materials:
 
 '
   time: Building - Structural Insulated Panels
-- content: "#### Master in Arts Lorem ipsum dolor sit amet conset sadipscing elitr,
-    sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
-    sed diam\n"
+- content: 'Master in Arts Lorem ipsum dolor sit amet conset sadipscing elitr, sed
+    diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed
+    diam
+
+'
   time: Windows
-- content: "#### Master in Arts Lorem ipsum dolor sit amet conset sadipscing elitr,
-    sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
-    sed diam\n"
+- content: 'Master in Arts Lorem ipsum dolor sit amet conset sadipscing elitr, sed
+    diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed
+    diam
+
+'
   time: Structual Frame
-- content: "#### Master in Arts Lorem ipsum dolor sit amet conset sadipscing elitr,
-    sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
-    sed diam\n"
+- content: 'Master in Arts Lorem ipsum dolor sit amet conset sadipscing elitr, sed
+    diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed
+    diam
+
+'
   time: Siding & Roofing
 process:
 - content: "#### Umbrella co.  Lorem ipsum dolor sit amet conset sadipscing elitr,
