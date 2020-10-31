@@ -18,7 +18,7 @@ skill:
     progress: 10%
     color: "#e6e6e6"
   - title: Purchase, Ordering & Transportation
-    progress: 25%
+    progress: "#bfbfbf"
     color: "#fdb157"
   - title: Piles & Structural Frame
     progress: 50%
