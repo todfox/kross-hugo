@@ -27,7 +27,7 @@ skill:
     progress: 75%
     color: "#ffbcaa"
   - progress: 90%
-    color: ''
+    color: "#99ff66"
     title: Siding & Roofing
   - progress: 95%
     color: ''
