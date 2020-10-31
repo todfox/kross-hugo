@@ -26,6 +26,9 @@ skill:
   - title: Windows & Doors
     progress: 75%
     color: "#ffbcaa"
+  - progress: 90%
+    color: ''
+    title: Siding & Roofing
 partners:
   enable: true
   title: Partners
