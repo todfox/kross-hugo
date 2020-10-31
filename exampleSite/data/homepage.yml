@@ -12,10 +12,10 @@ about:
     URL: about
 skill:
   enable: false
-  title: " Our design principles"
+  title: Your Fox Box Build
   item:
-  - title: Affordability
-    progress: 60%
+  - title: Purchase, Ordering & Transportation
+    progress: 25%
     color: "#fdb157"
   - title: Construction Speed
     progress: 60%
