@@ -10,16 +10,17 @@
       </div>
         <div class="row">
             <div class="col-lg-6">
+                                    <div class="btn-group nav mt-5">
+                        <a href="#{{.tab1Target}}" class="btn btn-primary active mb-4" data-toggle="tab">{{ .tab1Name }}</a>
+                        <a href="#{{.tab2Target}}" class="btn btn-primary mb-4" data-toggle="tab">{{ .tab2Name }}</a>
+                    </div>
 
                     <div class="text-light">
 
                         {{ .title | markdownify }}
                     </div>
 
-                    <div class="btn-group nav mt-5">
-                        <a href="#{{.tab1Target}}" class="btn btn-primary active mb-4" data-toggle="tab">{{ .tab1Name }}</a>
-                        <a href="#{{.tab2Target}}" class="btn btn-primary mb-4" data-toggle="tab">{{ .tab2Name }}</a>
-                    </div>
+
 
             </div>
             <div class="col-lg-6">
