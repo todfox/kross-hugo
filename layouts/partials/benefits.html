@@ -23,11 +23,11 @@
 
             </div>
             <div class="col-lg-6">
-                <div class="card">
+                <div class="tab-content ">
                     <div class="benefits__materials tab-pane active" id="{{.tab1Target}}">
                         {{ $Section := .materials }}
                         {{ range $Section }}
-                        <div class="benefits__materials_item">
+                        <div class="card">
                             <span class="pre-line text-primary"> {{ .time }} </span>
                             {{ .content | markdownify }}
                         </div>
