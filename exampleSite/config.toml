@@ -12,10 +12,6 @@ URL = "boxes"
 name = "boxes"
 weight = 2
 [[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 4
-[[menu.main]]
 URL = "about"
 name = "About"
 weight = 1
