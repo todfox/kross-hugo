@@ -28,7 +28,7 @@ skill:
     color: "#bdecf6"
   - title: Windows & Doors
     progress: 75%
-    color: "#ffbcaa"
+    color: "#e6e600"
   - progress: 90%
     color: "#99ff66"
     title: Siding & Roofing
