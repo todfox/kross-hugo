@@ -10,9 +10,11 @@ tab2Target: process
 materials:
 - content: ''
   time: Design
-- content: "#### Master in Arts Lorem ipsum dolor sit amet conset sadipscing elitr,
-    sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
-    sed diam\n"
+- content: 'Master in Arts Lorem ipsum dolor sit amet conset sadipscing elitr, sed
+    diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed
+    diam
+
+'
   time: Building - Structural Insulated Panels
 - content: "#### Master in Arts Lorem ipsum dolor sit amet conset sadipscing elitr,
     sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
