@@ -17,8 +17,8 @@ skill:
   - title: Purchase, Ordering & Transportation
     progress: 25%
     color: "#fdb157"
-  - title: Construction Speed
-    progress: 60%
+  - title: Piles & Structural Frame
+    progress: 50%
     color: "#9473e6"
   - title: Environment
     progress: 80%
