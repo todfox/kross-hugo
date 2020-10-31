@@ -27,7 +27,7 @@
                     <div class="benefits__materials tab-pane active" id="{{.tab1Target}}">
                         {{ $Section := .materials }}
                         {{ range $Section }}
-                        <div class="card">
+                        <div class="resume__education_item">
                             <span class="pre-line text-primary"> {{ .time }} </span>
                             {{ .content | markdownify }}
                         </div>
