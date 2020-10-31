@@ -12,7 +12,7 @@ about:
     URL: about
 skill:
   enable: true
-  title: Your Fox Box Build
+  title: Build Schedule
   item:
   - title: Purchase, Ordering & Transportation
     progress: 25%
