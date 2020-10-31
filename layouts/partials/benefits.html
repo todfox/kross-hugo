@@ -39,7 +39,7 @@
                         {{ $Section := .process }}
                         {{ range $Section }}
                         <div class="benefits__materials_item">
-                            <span class="pre-line text-primary"> {{ .time }} </span>
+                            <span class="mb-4"> {{ .time }} </span>
                             {{ .content | markdownify }}
                         </div>
                         {{ end }}
