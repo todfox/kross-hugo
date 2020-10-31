@@ -42,14 +42,14 @@ partners:
   enable: true
   title: Partners
   item:
+  - logo: "/images/cal.png"
+    title: " Craig Anthony Longhurst Design"
+    company: ''
+    duration: July 2015
   - logo: "/images/logo_misty_burton.png"
     title: Concrete & Construction
     company: ''
     duration: July 2020
-  - logo: "/images/cal.png"
-    title: " CRAIG ANTHONY LONGHURST DESIGN"
-    company: ''
-    duration: July 2015
   - logo: https://www.innotech-windows.com/wp-content/themes/innotech/images/logo.svg
     title: Windows
     company: ''
