@@ -1,0 +1,49 @@
+{{ with .Site.Data.benefitsSection }}
+{{ if .enable }}
+<section class="section benefits" id="benefits">
+    <div class="benefits__background"></div>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6">
+                <div class="benefits__heading">
+                    <div class="text-light">
+                        <span class="top-title pre-line">{{ .topTitle }}</span>
+                        {{ .title | markdownify }}
+                    </div>
+
+                    <div class="btn-group nav mt-5">
+                        <a href="#{{.tab1Target}}" class="btn btn-primary active" data-toggle="tab">{{ .tab1Name }}</a>
+                        <a href="#{{.tab2Target}}" class="btn btn-primary" data-toggle="tab">{{ .tab2Name }}</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="tab-content ">
+                    <div class="benefits__materials tab-pane active" id="{{.tab1Target}}">
+                        {{ $Section := .materials }}
+                        {{ range $Section }}
+                        <div class="benefits__materials_item">
+                            <span class="pre-line text-primary"> {{ .time }} </span>
+                            {{ .content | markdownify }}
+                        </div>
+                        {{ end }}
+
+                    </div>
+
+                    <div class="benefits__materials tab-pane" id="{{.tab2Target}}">
+                        {{ $Section := .process }}
+                        {{ range $Section }}
+                        <div class="benefits__materials_item">
+                            <span class="pre-line text-primary"> {{ .time }} </span>
+                            {{ .content | markdownify }}
+                        </div>
+                        {{ end }}
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+{{ end }}
+{{ end }}
