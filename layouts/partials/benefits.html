@@ -28,7 +28,7 @@
                         {{ $Section := .materials }}
                         {{ range $Section }}
                         <div class="benefits__materials_item">
-                            <span class="pre-line mb-4"> {{ .time }} </span>
+                            <span class="pre-line text-primary"> {{ .time }} </span>
                             {{ .content | markdownify }}
                         </div>
                         {{ end }}
