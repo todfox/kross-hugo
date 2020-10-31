@@ -29,6 +29,9 @@ skill:
   - progress: 90%
     color: ''
     title: Siding & Roofing
+  - progress: 95%
+    color: ''
+    title: Electrical & Plumbing
 partners:
   enable: true
   title: Partners
