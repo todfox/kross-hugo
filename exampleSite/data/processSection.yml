@@ -1,15 +1,24 @@
 ---
 enable: true
-topTitle: My Skills
+topTitle: Process
 content: >
-  ## Why hire me for your next project?
-  My goal is to build a strong supportive professional network among all freelancers and startups in order to improve their performance.
-image: images/skill/skill_image.jpg
+  Hold onto your seats, the build will be over before you know it! Our Smart Designs only take 4 weeks to build. Custom interior designs may take longer, depending on the scale and complexity.
+image: images/process/process_image.jpg
 
-skill:
-  - title: HTML
-    percent: 69
-  - title: CSS
-    percent: 60
-  - title: Javascript
-    percent: 85
+process:
+  - title: Week 1 - Introduction & Site Visit
+    percent: 10
+  - title: Week 1 - Deposit, Ordering & Transportation 
+    percent: 25
+  - title: Week 2 - Piles & Structural Frame
+    percent: 50 
+  - title: Week 3 - Box Erection 
+    percent: 65 
+  - title: Week 3 - Windows & Doors 
+    percent: 75 
+  - title: Week 3 - Siding & Roofing
+    percent: 90
+  - title: Week 4 - Electrical & Plumbing
+    percent: 95
+  - title: Week 4 - Cleaning & Final Inspection
+    percent: 100 

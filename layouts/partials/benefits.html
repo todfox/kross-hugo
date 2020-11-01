@@ -5,16 +5,20 @@
     <div class="container">
           <div class="row">
         <div class="col-12 text-center">
-          <h1 class="section-title text-white">{{ .topTitle | markdownify }}</h1>
+          <h2 class="section-title">{{ .topTitle | markdownify }}</h2>
         </div>
               <div class="col-lg-6">
                 <div class="benefits__heading">
-                    <div class="text-light">
+                    <div class="card">
 
-                        {{ .title | markdownify }}
+                     <div class="navbar mt-3">
+
+			     {{ .title | markdownify }}</div>
+
+
                     </div>
 
-                    <div class="btn-group nav">
+                    <div class="btn-group nav mt-5">
                         <a href="#{{.tab1Target}}" class="btn btn-primary active" data-toggle="tab">{{ .tab1Name }}</a>
                         <a href="#{{.tab2Target}}" class="btn btn-primary" data-toggle="tab">{{ .tab2Name }}</a>
                     </div>

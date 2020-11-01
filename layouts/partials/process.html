@@ -19,6 +19,11 @@
         <img src="images/service/background-pattern.svg" alt="background-shape">
     </div>
     <div class="container">
+          <div class="row">
+		          <div class="col-12 text-center">
+				            <h1 class="section-title">{{ .topTitle | markdownify }}</h1>
+					            </div>
+						     
         <div class="row align-items-center">
             <div class="col-lg-6">
                 <div class="process__thumb">
@@ -38,7 +43,6 @@
             <div class="col-lg-6">
                 <div class="process__progress">
                     <div class="process__progress_heading mb-5">
-                        <span class="top-title pre-line">{{ .topTitle }}</span>
                         {{ .content | markdownify }}
                     </div>
                     {{ $section := .process }}
