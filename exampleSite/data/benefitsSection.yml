@@ -15,7 +15,7 @@ materials:
 
 '
   benefit: Windows
-  image: "images/windows.jpg"
+  image: "images/window.png"
 - content: 'We frame each of our buildings with steel i-beams for its strength, speed and efficiency in construction. The ease of construction allows for a 50% time savings compared to a similar wood framed structure being built. Steel structures also have excellent durability.'
   benefit: Structual Frame
   image: "images/steel.jpg"
