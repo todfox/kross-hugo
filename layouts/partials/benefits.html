@@ -42,7 +42,7 @@
                         {{ $Section := .design }}
                         {{ range $Section }}
                         <div class="benefits__materials_item">
-                            <span class="pre-line text-primary"> {{ .time }} </span>
+                            <span class="pre-line text-primary"> {{ .benefit }} </span>
                             {{ .content | markdownify }}
                         </div>
                         {{ end }}
