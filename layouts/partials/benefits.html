@@ -30,6 +30,7 @@
                         {{ $Section := .materials }}
                         {{ range $Section }}
                         <div class="benefits__materials_item">
+			    <img src="{{.image | absURL }}" style="absolute: right; margin: 0px 0px 15px 0px;" class="img-fluid rounded h-50 w-100 d-block">
                             <span class="pre-line text-primary"> {{ .time }} </span>
                             {{ .content | markdownify }}
                         </div>
@@ -38,7 +39,7 @@
                     </div>
 
                     <div class="benefits__materials tab-pane" id="{{.tab2Target}}">
-                        {{ $Section := .process }}
+                        {{ $Section := .design }}
                         {{ range $Section }}
                         <div class="benefits__materials_item">
                             <span class="pre-line text-primary"> {{ .time }} </span>

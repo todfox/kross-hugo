@@ -3,50 +3,41 @@ enable: true
 topTitle: Benefits
 title: "### Considered design. Conscious architecture. Impressive time frames."
 tab1Name: Materials
-tab2Name: Process
+tab2Name: Design
 tab1Target: materials
-tab2Target: process
+tab2Target: design
 materials:
-- content: ''
-  time: Design
-- content: 'Master in Arts Lorem ipsum dolor sit amet conset sadipscing elitr, sed
-    diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed
-    diam
-
+- content: 'SIPs have fantastic insulation and eco qualities: less waste is produced when ew build with SIPs & very little energy is used during the manufacturing process. On top of this, the panels are made by sandwiching a core of rigid EPS foam insulation between two structural skins of oriented strand board (OSB), meaning that in building with SIPs, the insulation is already in place. Our SIPS buildings are more energy efficient, stronger, quieter and more airtight than older technologies. Less air leakage means less drafts, fewer noise penetrations and significantly lower energy bills, thus a reduction in CO2 emissions.
 '
   time: Building - Structural Insulated Panels
-- content: 'Master in Arts Lorem ipsum dolor sit amet conset sadipscing elitr, sed
-    diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed
-    diam
+  image: "images/sip.jpg"
+- content: 'The Defender 76TS System is the premium window system engineered for our performance driven buildings. Triple panes, triple seal system controls your homes energy efficiency, security and more.
 
 '
   time: Windows
-- content: 'Master in Arts Lorem ipsum dolor sit amet conset sadipscing elitr, sed
-    diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed
-    diam
-
-'
+  image: "images/windows.jpg"
+- content: 'We frame each of our buildings with steel i-beams for its strength, speed and efficiency in construction. The ease of construction allows for a 50% time savings compared to a similar wood framed structure being built. Steel structures also have excellent durability.'
   time: Structual Frame
-- content: 'Master in Arts Lorem ipsum dolor sit amet conset sadipscing elitr, sed
-    diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed
-    diam
+  image: "images/steel.jpg"
+- content: 'First, longevity. Metal roofing and siding are lifetime products. Second, no painting or maintenance. The metal is delivered factory painted. Number three is efficiency. Theres a radiant barrier given the air gap behind the metal. Fourth, is the speed of install. Five, the metal panel is 30 to 60% recycled content. At the end of its life, it will still be valuable and not end up in landfill. Six, no rot. Seven, its easy to clean with a quick power washing. Eight, hail and fire resistance.
 
 '
   time: Siding & Roofing
-process:
-- content: "#### Umbrella co.  Lorem ipsum dolor sit amet conset sadipscing elitr,
+  image: "images/siding.png"
+design:
+- content: "Umbrella co.  Lorem ipsum dolor sit amet conset sadipscing elitr,
     sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
     sed diam\n"
-  time: 2016-Present
-- content: "#### Aperture Science  Lorem ipsum dolor sit amet conset sadipscing elitr,
+  time: Open Concept
+- content: "Aperture Science  Lorem ipsum dolor sit amet conset sadipscing elitr,
     sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
     sed diam\n"
-  time: 2010-2016
-- content: "#### ACME Inc.  Lorem ipsum dolor sit amet conset sadipscing elitr, sed
+  time: Gloriously High Ceiling
+- content: "ACME Inc.  Lorem ipsum dolor sit amet conset sadipscing elitr, sed
     diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed
     diam\n"
-  time: 2005-2010
-- content: "#### LexCorp  Lorem ipsum dolor sit amet conset sadipscing elitr, sed
+  time: Windows & More Windows
+- content: "LexCorp  Lorem ipsum dolor sit amet conset sadipscing elitr, sed
     diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed
     diam\n"
-  time: 2001-2005
+  time: Luxuriously Simple
