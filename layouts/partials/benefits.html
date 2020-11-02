@@ -31,7 +31,7 @@
                         {{ range $Section }}
                         <div class="benefits__materials_item">
 			    <img src="{{.image | absURL }}" style="absolute: right; margin: 0px 0px 15px 0px;" class="img-fluid rounded h-50 w-100 d-block">
-                            <span class="pre-line text-primary"> {{ .time }} </span>
+                            <span class="pre-line text-primary"> {{ .benefit }} </span>
                             {{ .content | markdownify }}
                         </div>
                         {{ end }}
