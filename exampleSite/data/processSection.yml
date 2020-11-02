@@ -1,24 +1,26 @@
 ---
 enable: true
 topTitle: Process
-content: >
-  Hold onto your seats, the build will be over before you know it! Our Smart Designs only take 4 weeks to build. Custom interior designs may take longer, depending on the scale and complexity.
-image: images/lake2.jpg
+content: 'Hold onto your seats, the build will be over before you know it! Our Smart
+  Designs only take 4 weeks to build. Custom interior designs may take longer, depending
+  on the scale and complexity.
 
+'
+image: "/images/lake2.jpg"
 process:
-  - title: Week 1 - Introduction & Site Visit
-    percent: 10
-  - title: Week 1 - Deposit, Ordering & Transportation 
-    percent: 25
-  - title: Week 2 - Piles & Structural Frame
-    percent: 50 
-  - title: Week 3 - Box Erection 
-    percent: 65 
-  - title: Week 3 - Windows & Doors 
-    percent: 75 
-  - title: Week 3 - Siding & Roofing
-    percent: 90
-  - title: Week 4 - Electrical & Plumbing
-    percent: 95
-  - title: Week 4 - Cleaning & Final Inspection
-    percent: 100 
+- title: Week 1 - Introduction & Site Visit
+  percent: "10"
+- title: Week 1 - Deposit, Ordering & Transportation
+  percent: "25"
+- title: Week 2 - Piles & Structural Frame
+  percent: "50"
+- title: Week 3 - Box Erection
+  percent: "65"
+- title: Week 3 - Windows & Doors
+  percent: "75"
+- title: Week 3 - Siding & Roofing
+  percent: "90"
+- title: Week 4 - Electrical & Plumbing
+  percent: "95"
+- title: Week 4 - Cleaning & Final Inspection
+  percent: "100"
