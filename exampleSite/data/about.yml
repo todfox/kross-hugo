@@ -19,8 +19,8 @@ team:
   enable: true
   title: Our Team
   team_member:
-  - title: Natasha Fox
-    image: "/images/natasha_fox.jpg"
+  - title: Tod Fox
+    image: "/images/s200_tod_fox.jpg"
     designation: Project Manager
   - title: Doug Kramble
     image: "/images/doug.jpg"
