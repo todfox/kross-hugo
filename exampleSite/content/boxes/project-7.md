@@ -1,7 +1,7 @@
 ---
 title: The Detached Suite
 time: 8 Weeks
-image: "/images/studio-pedro-black-cabin-in-nys-exterior-at-dusk-41-1024x1011.jpg"
+image: lodgev2.png
 area: 480 sqft
 cost: "$80,000"
 categories:
