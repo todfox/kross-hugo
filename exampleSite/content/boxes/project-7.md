@@ -1,7 +1,7 @@
 ---
 title: The Detached Suite
 time: 8 Weeks
-image: lodgev2.png
+image: suitev2.png
 area: 480 sqft
 cost: "$80,000"
 categories:
