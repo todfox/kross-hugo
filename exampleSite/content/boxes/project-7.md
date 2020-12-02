@@ -10,11 +10,11 @@ description: This is meta description.
 pictures:
   item:
   - logo: images/suitev2-outdoors.png
-    URL: ""
+    URL: ''
   - logo: images/suitev2-indoors.png
-    URL: ""
+    URL: ''
   - logo: images/suitev2-indoors2.png
-    URL: ""
+    URL: ''
 
 ---
 #### Overview
@@ -23,12 +23,20 @@ The Suite has been carefully crafted using Scandinavian design principles to max
 
 #### Key Features
 
-
 * Open living space
-* Stone counter tops
+* Heating and cooling? We got that covered
+* Quartz counter tops
 * Waterproof flooring throughout
-* 9 3'x 6' picture frame windows
-* Triple glazing
-* 14' sloped cieling to 10'
-* Passive (air tight) home
+* Nine large (3'x 6') picture frame windows
+* Triple pane windows
+* Luxuriously high ceilings (14 feet slopping down to 10 feet)
+* Energy Efficient Passive (air tight) home
 * All seasons
+* Backed by New Home Warranty
+
+#### Not included
+
+* Piles/foundation (can be arranged)
+* Permits  (can be arranged)
+* Electrical hookup (can be arranged)
+* Plumbing hookup (can be arranged)
