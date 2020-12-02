@@ -62,6 +62,20 @@
     </div>
   </div>
 </section>
+
+<section class="section bg-light">
+  <div class="container">
+<div class="client-logo-slider d-flex align-items-center">
+          {{ range .Params.pictures.item}}
+  {{ if and ( ne .URL "" ) ( ne .URL "#" ) }}
+  <a href="{{ .URL | safeURL }}" class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid" src="{{.logo | absURL}}" alt="fox-box"></a>
+  {{ else }}
+  <span class="text-center d-block outline-0 p-4"><img class="d-unset img-fluid" src="{{.logo | absURL}}" alt="fox-box"></span>
+  {{ end }}
+  {{ end }}
+</div>
+  </div>
+</section>
 <!-- /portfolio -->
 
 {{ end }}
