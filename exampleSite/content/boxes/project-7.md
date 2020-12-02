@@ -1,9 +1,9 @@
 ---
 title: The Detached Suite
-date: 
+time: 
 image: "/images/studio-pedro-black-cabin-in-nys-exterior-at-dusk-41-1024x1011.jpg"
-client: 480 sqft
-project_url: "$80,000"
+area: 480 sqft
+cost: "$80,000"
 categories:
 - suite
 description: This is meta description.
