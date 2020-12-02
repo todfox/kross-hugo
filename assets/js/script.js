@@ -138,8 +138,9 @@ $(window).on('load', function () {
 	// clients logo slider
 	$('.client-logo-slider').slick({
 		infinite: true,
-		slidesToShow: 5,
-		slidesToScroll: 1,
+		speed: 2000,
+		slidesToShow: 3,
+		slidesToScroll: 2,
 		autoplay: true,
 		dots: false,
 		arrows: false,
@@ -154,7 +155,7 @@ $(window).on('load', function () {
 				breakpoint: 600,
 				settings: {
 					slidesToShow: 3,
-					slidesToScroll: 1
+					slidesToScroll: 2
 				}
 			},
 			{

@@ -19,6 +19,8 @@ pictures:
     URL: "#"
   - logo: images/clients-logo/client-logo-5.png
     URL: http://examplesite.com
+  - logo: images/clients-logo/client-logo-5.png
+    URL: http://examplesite.com
 
 ---
 #### Project Requirements
