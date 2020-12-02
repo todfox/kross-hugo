@@ -1,6 +1,6 @@
 ---
 title: The Detached Suite
-time: 8 Weeks
+time: 
 image: images/suitev2.png
 area: 480 sqft
 cost: "$80,000"
