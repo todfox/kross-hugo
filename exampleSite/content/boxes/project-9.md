@@ -2,8 +2,8 @@
 title: Lodge
 time: 2019-05-12T12:14:34.000+06:00
 image: "/images/westcoastcabin-17.jpg"
-area: Tod Fox
-cost: ''
+area: 960 sqft
+cost: "$140,000"
 categories:
 - lodge
 description: This is meta description.
