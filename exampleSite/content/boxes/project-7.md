@@ -1,6 +1,6 @@
 ---
 title: The Detached Suite
-time: "8 Weeks"
+time: 8 Weeks
 image: "/images/studio-pedro-black-cabin-in-nys-exterior-at-dusk-41-1024x1011.jpg"
 area: 480 sqft
 cost: "$80,000"
@@ -9,20 +9,16 @@ categories:
 description: This is meta description.
 pictures:
   item:
-    - logo : "images/clients-logo/client-logo-1.png"
-      URL : "http://examplesite.com"
-      
-    - logo : "images/clients-logo/client-logo-2.png"
-      URL : "#"
-      
-    - logo : "images/clients-logo/client-logo-3.png"
-      URL : "http://examplesite.com"
-      
-    - logo : "images/clients-logo/client-logo-4.png"
-      URL : "#"
-      
-    - logo : "images/clients-logo/client-logo-5.png"
-      URL : "http://examplesite.com"
+  - logo: https://cdn.vox-cdn.com/thumbor/gVD0-amxPgm2GhtwzZg3SasXtRU=/0x0:1000x667/920x0/filters:focal(0x0:1000x667):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/19913959/56992_preview_low_4154_1_56992_sc_v2com.jpg
+    URL: http://foxbox.life
+  - logo: images/clients-logo/client-logo-2.png
+    URL: "#"
+  - logo: images/clients-logo/client-logo-3.png
+    URL: http://examplesite.com
+  - logo: images/clients-logo/client-logo-4.png
+    URL: "#"
+  - logo: images/clients-logo/client-logo-5.png
+    URL: http://examplesite.com
 
 ---
 #### Project Requirements
