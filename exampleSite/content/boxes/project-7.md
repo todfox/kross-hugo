@@ -1,6 +1,6 @@
 ---
 title: The Detached Suite
-time: 
+time: 8 Weeks
 image: images/suitev2.png
 area: 480 sqft
 cost: "$80,000"
@@ -31,10 +31,12 @@ The Suite has been carefully crafted using Scandinavian design principles to max
 * Triple pane windows
 * Luxuriously high ceilings (14 feet slopping down to 10 feet)
 * Energy Efficient Passive (air tight) home
+* Metal roofing & siding
 * All seasons
 * Backed by New Home Warranty
 
-#### Not included
+#### 
+#### Owners Provide
 
 * Piles/foundation (can be arranged)
 * Permits  (can be arranged)
