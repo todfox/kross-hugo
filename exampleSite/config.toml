@@ -59,3 +59,7 @@ icon = "ti-dribbble"
 [[params.social]]
 URL = "#"
 icon = "ti-twitter-alt"
+[sitemap]
+  changefreq = "monthly"
+  filename = "sitemap.xml"
+  priority = 0.5
