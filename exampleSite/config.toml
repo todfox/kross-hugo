@@ -3,18 +3,6 @@ languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
 title = "Fox Box"
-[[menu.main]]
-URL = "press"
-name = "Press"
-weight = 3
-[[menu.main]]
-URL = "boxes"
-name = "boxes"
-weight = 2
-[[menu.main]]
-URL = "about"
-name = "About"
-weight = 1
 [params]
 address = "1038 Aird Street, Saskatoon, Saskatchewan, CANADA"
 author = "Natasha Fox"
