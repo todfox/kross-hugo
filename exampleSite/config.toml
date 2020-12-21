@@ -16,7 +16,7 @@ URL = "about"
 name = "About"
 weight = 1
 [params]
-address = "1038 Aird Street, Saskatoon, SK, CANADA"
+address = "1038 Aird Street, Saskatoon, Saskatchewan, CANADA"
 author = "Natasha Fox"
 copyright = "Copyright &copy; 2020 by Tod Fox"
 description = ""
